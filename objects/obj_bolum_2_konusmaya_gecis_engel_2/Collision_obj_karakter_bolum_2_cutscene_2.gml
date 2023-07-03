@@ -1,0 +1,1 @@
+action_another_room(oda_bolum_2_konusma_3_kapi_yani);

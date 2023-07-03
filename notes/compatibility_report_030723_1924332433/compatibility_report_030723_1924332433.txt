@@ -1,0 +1,419 @@
+!!! Font fnt_credits uses a font (Copycat 759) not installed on this system - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_credits\fnt_credits.gms1.png
+Converting GML script: ${project_dir}\objects\obj_yon\Step_0.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_karakter\Step_0.gml
+Converted builtin - line 5: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 19: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 33: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 47: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 61: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 75: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 89: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 103: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 18: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 32: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 46: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 60: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 74: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 88: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 102: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_pistol\Step_0.gml
+Converted builtin - line 17: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_oyna\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_ayarlar\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_credits_git\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_durdurma\Step_0.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_anamenu_durdurma\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_oyun_devam\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_geri\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_yeni_oyun\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_kayitli_oyun\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_kaydetme_1\Step_0.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_kaydetme_1\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_kaydetme_2\Step_0.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_kaydetme_2\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_bildirim_alani_part_1\Step_0.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_bildirimi_alani_part_2\Step_0.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_bildirimi_alani_part_3\Step_0.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_final\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_bolum_1_guvenlik\Step_0.gml
+Converted description /// @description ////////// ENEMY LOGIC STEP EVENT
+
+Converting GML script: ${project_dir}\objects\obj_bolum_1_guvenlik\Other_11.gml
+Converted description /// @description  event user one: called when AI has a sight on the enemy and should shoot it.
+
+Converting GML script: ${project_dir}\objects\obj_bolum_1_guvenlik\Other_10.gml
+Converted description /// @description  User event 0 - called when AI has not spotted the enemy yet. (in this example, the AI just runs around the room.)/// @param in this example
+/// @param  the AI just runs around the room.
+
+Converting GML script: ${project_dir}\objects\obj_konusma_1_devam_block\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_konusma_2_devam_block\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_karanlik\Step_0.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_cutscene_gec\Step_0.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_checkpoint_gorev_2_bildirim\Create_0.gml
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_checkpoint_gorev_2_bildirim\Step_0.gml
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_checkpoint_gorev_2_bildirim\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_cutscene_gec_b_2\Step_0.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_cutscene_gec_b_2_2\Step_0.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_talim_vurma_check_1_bildirim\Step_0.gml
+Converted builtin - line 9: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_talim_vurma_check_2_bildirim\Step_0.gml
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_talim_vurma_check_3_bildirim\Step_0.gml
+Converted builtin - line 9: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_bolum_2_konusmaya_gecis_engel_1\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_bolum_2_konusmaya_gecis_engel_2\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_konusma_devam_block_1\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_konusma_devam_block_2\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_konusma_devam_block_3\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_konusma_devam_block_4\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_konusma_devam_block_5\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_checkpoint_gorev_3_bildirim\Create_0.gml
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_checkpoint_gorev_3_bildirim\Step_0.gml
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_fade\Step_0.gml
+Error: variable 'player_id' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\obj_fade\Draw_0.gml
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_kayit_1\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_kayit_2\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_kayit_hata\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_geri_kayitli_oyunlar\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_credits_geri\Draw_0.gml
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_ev_check_giris_bildirim_b_1\Create_0.gml
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_ev_check_giris_bildirim_b_1\Step_0.gml
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_ev_check_cikis_bildirim_b_1\Create_0.gml
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_ev_check_cikis_bildirim_b_1\Step_0.gml
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_kayit_1_collision_bildirim_b_1\Create_0.gml
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_kayit_1_collision_bildirim_b_1\Step_0.gml
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_kayit_2_collision_bildirim_b_1\Create_0.gml
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_kayit_2_collision_bildirim_b_1\Step_0.gml
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_ev_check_cikis_bildirim_b_2\Create_0.gml
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_ev_check_cikis_bildirim_b_2\Step_0.gml
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_ev_check_giris_bildirim_b_2\Create_0.gml
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_ev_check_giris_bildirim_b_2\Step_0.gml
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_ev_ok_b1\Step_0.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_ev_ok_b2\Step_0.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_ev_yon\Step_0.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_hud_main\Step_0.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_hata\Mouse_4.gml
+Converted description /// @description  Bug Temizleyici
+
+Missing audiogroup for sound: 'ses_oyna' - setting to default audio group
+Missing audiogroup for sound: 'ses_menu_arkaplan' - setting to default audio group
+Missing audiogroup for sound: 'ses_yukleniyor' - setting to default audio group
+Missing audiogroup for sound: 'ses_pistol' - setting to default audio group
+Missing audiogroup for sound: 'ses_bina_siyirma' - setting to default audio group
+Missing audiogroup for sound: 'ses_kapi' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'action/action_another_room.gml'
+Added compatibility script 'action/action_change_object.gml'
+Added compatibility script 'action/action_end_sound.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_load_game.gml'
+Added compatibility script 'action/action_message.gml'
+Added compatibility script 'action/action_move.gml'
+Added compatibility script 'action/action_path.gml'
+Added compatibility script 'action/action_save_game.gml'
+Added compatibility script 'action/action_set_alarm.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
