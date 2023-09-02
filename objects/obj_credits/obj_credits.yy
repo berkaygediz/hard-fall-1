@@ -10,7 +10,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Credits",
-    "path": "folders/Objects/Credits.yy",
+    "path": "folders/Objects/Dil/Credits.yy",
   },
   "parentObjectId": null,
   "persistent": false,
