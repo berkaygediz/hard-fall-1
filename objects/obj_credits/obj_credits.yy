@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Credits",
-    "path": "folders/Objects/Dil/Credits.yy",
+    "name": "Hard Fall-1.project",
+    "path": "Hard Fall-1.project.yyp",
   },
   "parentObjectId": null,
   "persistent": false,
